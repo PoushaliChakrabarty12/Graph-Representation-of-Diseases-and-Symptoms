@@ -1,0 +1,10 @@
+FEVER,Cough,Headache,Sweating,Chest pain
+Covid 19,Influenza,Influenza,Malaria,Covid 19
+Pneumonia,Pneumonia,Covid 19,Heart failure,Heart failure
+Influenza,Covid 19,Pneumonia,Tuberculosis,Pneumonia
+Cancer,Asthma,Migraine,Acromegaly,Asthma
+Dengue,Bronchitis,Malaria,Dyabetic hypoglycemia,Hyperthyroidism
+Malaria,Heart failure,Dengue,Hyperthyroidism,Diptheria
+Diptheria,GERD,Cancer,Pheochromocytoma,Tuberculosis
+Tetanus,COPD,Myopia,Infection,Bronchitis
+Chikungunia,Allergy,Brain tumour,Hypertension,Malaria
